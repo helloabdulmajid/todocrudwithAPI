@@ -1,10 +1,10 @@
 import React from "react";
 import { Box, Typography, Button, Grid, TextField } from "@mui/material";
-// import { Typography, Box, makeStyles, Grid, TextField, Button } from "@material-ui/core";
-// import { deepOrange,deepPurple ,green,red} from "@mui/material/colors";imp
 import List from "../../src/components/employee/List";
 
 const Home = () => {
+
+
   return (
     <>
       <h1>Home Page</h1>
